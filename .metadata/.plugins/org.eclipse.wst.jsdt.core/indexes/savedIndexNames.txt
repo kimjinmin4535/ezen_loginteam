@@ -1,3 +1,11 @@
 INDEX VERSION 1.4+C:\Users\82109\Desktop\123123\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 2046968059.index
+<<<<<<< HEAD
+241778881.index
+4041618816.index
+343648438.index
+4223861742.index
+223885521.index
+=======
 644106760.index
+>>>>>>> 65f614934eb0ebe66f23d645ee1a15fef34a627a
