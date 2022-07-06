@@ -1,0 +1,14 @@
+function loginChk() {
+	var login_id = document.loginFrm.getElementById("login_id").value;
+	var login_pw = document.loginFrm.getElementById("login_pw").value;
+            if (login_id == null || login_id == "") {
+                alert("Please enter the username.");
+                return false;
+            }
+            if (login_pw == null || login_pw == "") {
+                alert("Please enter the password.");
+                return false;
+            }
+            alert('Login successful');
+            
+        }

@@ -1,0 +1,12 @@
+function loginSubmit() {
+	if(document.login.id.value == "" ||                                                  
+	document.login.id.value == null) {                                               
+	alert("아이디를 입력해 주십시오")
+	return false;
+	 } 
+	 else if (document.getElementById('pw').value == "" ||               
+	 document.getElementById('pw').value == null) {              
+     alert("패스워드를 입력해 주십시오")
+     return false;
+	} 
+	else document.login.submit;
