@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/ezen at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="ezen at localhost" name="ezen at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="2">
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/ezen at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="ezen at localhost" name="ezen at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="90" stop-timeout="30" testEnvironment="true" timestamp="3">
     <list key="modules" value0="Ezen_Project::org.eclipse.jst.jee.server:Ezen_Project::jst.web::2.5"/>
   </server>
 </servers>
