@@ -9,10 +9,17 @@
 <title>id_search</title>
 <link href='https://fonts.googleapis.com/css?family=Pacifico'
 	rel='stylesheet'>
+<<<<<<< HEAD
 <link rel="stylesheet" href="../resources/css/search/idSearch.css">
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script type="text/javascript" src="../resources/js/search/idSearch.js"></script>
+=======
+<link rel="stylesheet" href="../resources/css/idSearch.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="../resources/js/idSearch.js"></script>
+>>>>>>> 9a5ce6ad0b03743c9fe1ed2f1a330967d55a6fb3
 </head>
 <body>
 	<div class="SEARCH_FORM">

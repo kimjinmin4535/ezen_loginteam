@@ -7,7 +7,11 @@
 <title>pwSearchOutPut</title>
 <link href='https://fonts.googleapis.com/css?family=Pacifico'
 	rel='stylesheet'>
+<<<<<<< HEAD
 <link rel="stylesheet" href="../resources/css/search/idSearch.css">
+=======
+<link rel="stylesheet" href="../resources/css/idSearch.css">
+>>>>>>> 9a5ce6ad0b03743c9fe1ed2f1a330967d55a6fb3
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script type="text/javascript">

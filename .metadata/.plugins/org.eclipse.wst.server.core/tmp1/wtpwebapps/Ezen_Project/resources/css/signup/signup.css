@@ -1,11 +1,10 @@
 @charset "UTF-8";
-
 body {
 	display: flex;
 	align-items: baseline;
 	gap: 32px;
 	padding: 48px 0;
-}
+} 
 .signupcomplete_msg {
 	flex: 3.5;
 	padding: 30px;

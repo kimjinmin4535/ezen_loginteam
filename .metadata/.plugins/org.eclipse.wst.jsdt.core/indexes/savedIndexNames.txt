@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.4+C:\Users\ezenac\Desktop\ezenac_loginp\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 2046968059.index
 3250166265.index
@@ -6,3 +7,11 @@ INDEX VERSION 1.4+C:\Users\ezenac\Desktop\ezenac_loginp\.metadata\.plugins\org.e
 1792209819.index
 1140469293.index
 4140232381.index
+=======
+INDEX VERSION 1.4+C:\Users\82109\Desktop\ezen_loginteam\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2046968059.index
+241778881.index
+4041618816.index
+343648438.index
+223885521.index
+>>>>>>> 9a5ce6ad0b03743c9fe1ed2f1a330967d55a6fb3
